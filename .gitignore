@@ -3,3 +3,7 @@
 ################################################################################
 
 /gl-calculation.api/bin/Debug/net6.0
+/.vs
+/gl-calculation.api/obj
+/gl-calculation.api.tests/bin/Debug/net6.0
+/gl-calculation.api.tests/obj
